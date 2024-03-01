@@ -11,16 +11,16 @@ do
     remainder=$((n % 2))
     if [ $remainder -eq 0 ]; then
         true
-        cp ./data_1_large/*.nc4 ./data_2_large/
-        mv ./data_1_large/*.nc4 ./data_2_large/
-        cp ./data_2_large/*.nc4 ./data_1_large/
-        rm ./data_1_large/*.nc4
+        #cp ./data_1_large/*.nc4 ./data_2_large/
+        /bin/mv ./data_1_large/*.nc4 ./data_2_large/
+        #cp ./data_2_large/*.nc4 ./data_1_large/
+        #rm ./data_1_large/*.nc4
     else
         true
-        cp ./data_2_large/*.nc4 ./data_1_large/
-        mv ./data_2_large/*.nc4 ./data_1_large/
-        cp ./data_1_large/*.nc4 ./data_2_large/
-        rm ./data_2_large/*.nc4
+        #cp ./data_2_large/*.nc4 ./data_1_large/
+        /bin/mv ./data_2_large/*.nc4 ./data_1_large/
+        #cp ./data_1_large/*.nc4 ./data_2_large/
+        #rm ./data_2_large/*.nc4
     fi
     time echo $THISMONTH | rev | cut -d'/' -f1 | cut -c1-2 | rev
     n=$((n+1))
