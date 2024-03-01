@@ -1,0 +1,968 @@
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.040s
+user	0m0.010s
+sys	0m0.010s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.040s
+user	0m0.006s
+sys	0m0.016s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.038s
+user	0m0.014s
+sys	0m0.005s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.039s
+user	0m0.009s
+sys	0m0.010s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.039s
+user	0m0.003s
+sys	0m0.019s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.036s
+user	0m0.013s
+sys	0m0.006s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.036s
+user	0m0.014s
+sys	0m0.005s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.035s
+user	0m0.004s
+sys	0m0.014s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.048s
+user	0m0.010s
+sys	0m0.008s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.177s
+user	0m0.009s
+sys	0m0.009s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.195s
+user	0m0.000s
+sys	0m0.018s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.203s
+user	0m0.000s
+sys	0m0.018s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.205s
+user	0m0.007s
+sys	0m0.011s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.211s
+user	0m0.009s
+sys	0m0.009s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.217s
+user	0m0.003s
+sys	0m0.016s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.210s
+user	0m0.005s
+sys	0m0.013s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.209s
+user	0m0.009s
+sys	0m0.010s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.206s
+user	0m0.008s
+sys	0m0.013s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.208s
+user	0m0.002s
+sys	0m0.017s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.216s
+user	0m0.007s
+sys	0m0.011s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.214s
+user	0m0.009s
+sys	0m0.010s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.210s
+user	0m0.011s
+sys	0m0.007s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.210s
+user	0m0.008s
+sys	0m0.011s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.210s
+user	0m0.000s
+sys	0m0.019s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.238s
+user	0m0.014s
+sys	0m0.005s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.234s
+user	0m0.005s
+sys	0m0.015s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.225s
+user	0m0.012s
+sys	0m0.005s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.221s
+user	0m0.004s
+sys	0m0.014s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.205s
+user	0m0.010s
+sys	0m0.011s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.214s
+user	0m0.000s
+sys	0m0.019s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.211s
+user	0m0.000s
+sys	0m0.020s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.208s
+user	0m0.001s
+sys	0m0.018s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.215s
+user	0m0.008s
+sys	0m0.012s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.207s
+user	0m0.009s
+sys	0m0.009s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.211s
+user	0m0.000s
+sys	0m0.020s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.206s
+user	0m0.005s
+sys	0m0.015s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.360s
+user	0m0.000s
+sys	0m0.019s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.881s
+user	0m0.004s
+sys	0m0.014s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.453s
+user	0m0.018s
+sys	0m0.000s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.362s
+user	0m0.019s
+sys	0m0.000s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.341s
+user	0m0.005s
+sys	0m0.014s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.333s
+user	0m0.013s
+sys	0m0.004s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.342s
+user	0m0.000s
+sys	0m0.019s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.323s
+user	0m0.000s
+sys	0m0.019s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.327s
+user	0m0.000s
+sys	0m0.017s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.332s
+user	0m0.000s
+sys	0m0.019s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.336s
+user	0m0.000s
+sys	0m0.018s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.328s
+user	0m0.006s
+sys	0m0.014s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.319s
+user	0m0.009s
+sys	0m0.009s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.321s
+user	0m0.013s
+sys	0m0.005s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.328s
+user	0m0.016s
+sys	0m0.006s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.333s
+user	0m0.008s
+sys	0m0.010s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.341s
+user	0m0.013s
+sys	0m0.004s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.337s
+user	0m0.014s
+sys	0m0.004s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.329s
+user	0m0.000s
+sys	0m0.019s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.334s
+user	0m0.009s
+sys	0m0.010s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.343s
+user	0m0.002s
+sys	0m0.017s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.934s
+user	0m0.000s
+sys	0m0.020s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.737s
+user	0m0.008s
+sys	0m0.010s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.547s
+user	0m0.001s
+sys	0m0.018s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.541s
+user	0m0.009s
+sys	0m0.008s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.527s
+user	0m0.009s
+sys	0m0.009s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.532s
+user	0m0.010s
+sys	0m0.009s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.540s
+user	0m0.007s
+sys	0m0.011s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.551s
+user	0m0.004s
+sys	0m0.013s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.546s
+user	0m0.013s
+sys	0m0.004s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.526s
+user	0m0.006s
+sys	0m0.013s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.550s
+user	0m0.002s
+sys	0m0.016s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.549s
+user	0m0.001s
+sys	0m0.016s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.546s
+user	0m0.004s
+sys	0m0.014s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.548s
+user	0m0.004s
+sys	0m0.014s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.778s
+user	0m0.005s
+sys	0m0.014s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.993s
+user	0m0.009s
+sys	0m0.010s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.779s
+user	0m0.014s
+sys	0m0.005s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.777s
+user	0m0.016s
+sys	0m0.005s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.771s
+user	0m0.009s
+sys	0m0.009s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.766s
+user	0m0.010s
+sys	0m0.009s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.770s
+user	0m0.005s
+sys	0m0.015s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.769s
+user	0m0.000s
+sys	0m0.020s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.777s
+user	0m0.009s
+sys	0m0.009s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.785s
+user	0m0.009s
+sys	0m0.009s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.775s
+user	0m0.005s
+sys	0m0.015s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.917s
+user	0m0.005s
+sys	0m0.015s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m1.041s
+user	0m0.015s
+sys	0m0.005s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m1.041s
+user	0m0.008s
+sys	0m0.011s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m1.044s
+user	0m0.004s
+sys	0m0.015s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m1.025s
+user	0m0.011s
+sys	0m0.008s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.989s
+user	0m0.009s
+sys	0m0.010s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.984s
+user	0m0.014s
+sys	0m0.005s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m0.992s
+user	0m0.005s
+sys	0m0.014s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m0.999s
+user	0m0.009s
+sys	0m0.010s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m1.031s
+user	0m0.000s
+sys	0m0.019s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m1.041s
+user	0m0.000s
+sys	0m0.022s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m1.036s
+user	0m0.004s
+sys	0m0.014s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m1.043s
+user	0m0.010s
+sys	0m0.009s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m1.040s
+user	0m0.007s
+sys	0m0.011s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m1.044s
+user	0m0.010s
+sys	0m0.009s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m1.041s
+user	0m0.004s
+sys	0m0.013s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m1.038s
+user	0m0.009s
+sys	0m0.009s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m1.041s
+user	0m0.005s
+sys	0m0.013s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m1.040s
+user	0m0.009s
+sys	0m0.010s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m1.042s
+user	0m0.005s
+sys	0m0.015s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m1.038s
+user	0m0.008s
+sys	0m0.011s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m1.040s
+user	0m0.005s
+sys	0m0.013s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m1.037s
+user	0m0.004s
+sys	0m0.013s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+
+real	0m1.039s
+user	0m0.005s
+sys	0m0.014s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+
+
+real	0m1.039s
+user	0m0.006s
+sys	0m0.015s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_2/*.nc4': No such file or directory
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+slurmstepd: error: *** JOB 5995 ON catch-m6a4xl-demand-dy-m6a4xlarge-1 CANCELLED AT 2024-02-28T21:25:26 ***

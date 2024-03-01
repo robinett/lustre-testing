@@ -1,0 +1,87 @@
+this is the command that we need to run quickly:
+time echo $THISMONTH | rev | cut -d/ -f1 | cut -c1-2 | rev; sleep 0.3
+lets try it in isolation to confirm it runs quickly by default
+
+
+real	0m0.040s
+user	0m0.011s
+sys	0m0.010s
+pretty quick
+now lets start moving files to see if this slows performance
+we are going to fire up 10 nodes.
+each node will be charged with continually copying, moving,
+and then deleting files.
+this simulates what happens in post-processing
+we will only time how long it takes to run the echo/rev/cut command
+lets start
+Submitted batch job 6068
+
+real	0m0.036s
+user	0m0.000s
+sys	0m0.021s
+Submitted batch job 6069
+
+real	0m0.159s
+user	0m0.001s
+sys	0m0.020s
+Submitted batch job 6070
+
+real	0m0.403s
+user	0m0.009s
+sys	0m0.009s
+Submitted batch job 6071
+
+real	0m0.519s
+user	0m0.005s
+sys	0m0.013s
+Submitted batch job 6072
+
+real	0m0.651s
+user	0m0.000s
+sys	0m0.020s
+Submitted batch job 6073
+
+real	0m0.796s
+user	0m0.013s
+sys	0m0.007s
+Submitted batch job 6074
+
+real	0m0.707s
+user	0m0.009s
+sys	0m0.009s
+Submitted batch job 6075
+
+real	0m0.710s
+user	0m0.011s
+sys	0m0.009s
+Submitted batch job 6076
+
+real	0m0.724s
+user	0m0.005s
+sys	0m0.014s
+Submitted batch job 6077
+
+real	0m0.785s
+user	0m0.003s
+sys	0m0.017s
+all have been submitted
+lets continue to check in every 10 seconds to follow how it
+further degrades
+stop when you feel like it; this will continue indefinetely
+generally, performance degrades after 5 minutes
+
+real	0m0.785s
+user	0m0.003s
+sys	0m0.017s
+0 minutes and 0 seconds elapsed.
+
+real	0m0.684s
+user	0m0.007s
+sys	0m0.012s
+0 minutes and 5 seconds elapsed.
+
+real	0m0.730s
+user	0m0.004s
+sys	0m0.015s
+0 minutes and 10 seconds elapsed.
+slurmstepd: error: *** JOB 6067 ON catch-m6a4xl-demand-dy-m6a4xlarge-15 CANCELLED AT 2024-02-28T22:08:36 ***

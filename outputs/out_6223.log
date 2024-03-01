@@ -1,0 +1,160 @@
+this is the command that we need to run quickly:
+time echo $THISMONTH | rev | cut -d/ -f1 | cut -c1-2 | rev
+lets try it in isolation to confirm it runs quickly by default
+
+
+real	0m0.044s
+user	0m0.006s
+sys	0m0.015s
+pretty quick
+the theory is that too many calls to the above command
+slows its performance
+lets test this by firing up nodes one at a time that
+will continually call the above command
+in between calls, the script will move a small number of
+files between directories and then do the same thing again
+progress should slow as more nodes are called in
+lets start
+calling in node 0
+Submitted batch job 6224
+
+real	0m0.267s
+user	0m0.005s
+sys	0m0.015s
+
+real	0m0.221s
+user	0m0.005s
+sys	0m0.016s
+calling in node 1
+Submitted batch job 6225
+
+real	0m0.407s
+user	0m0.000s
+sys	0m0.020s
+
+real	0m0.406s
+user	0m0.007s
+sys	0m0.015s
+calling in node 2
+Submitted batch job 6226
+
+real	0m0.610s
+user	0m0.005s
+sys	0m0.017s
+
+real	0m0.612s
+user	0m0.014s
+sys	0m0.005s
+calling in node 3
+Submitted batch job 6227
+
+real	0m0.961s
+user	0m0.006s
+sys	0m0.015s
+
+real	0m0.819s
+user	0m0.005s
+sys	0m0.016s
+calling in node 4
+Submitted batch job 6228
+
+real	0m1.045s
+user	0m0.011s
+sys	0m0.011s
+
+real	0m1.041s
+user	0m0.006s
+sys	0m0.018s
+calling in node 5
+Submitted batch job 6229
+
+real	0m1.098s
+user	0m0.006s
+sys	0m0.017s
+
+real	0m1.095s
+user	0m0.000s
+sys	0m0.022s
+calling in node 6
+Submitted batch job 6230
+
+real	0m1.097s
+user	0m0.005s
+sys	0m0.018s
+
+real	0m1.101s
+user	0m0.005s
+sys	0m0.016s
+calling in node 7
+Submitted batch job 6231
+
+real	0m1.098s
+user	0m0.005s
+sys	0m0.015s
+
+real	0m1.088s
+user	0m0.004s
+sys	0m0.017s
+calling in node 8
+Submitted batch job 6232
+
+real	0m1.099s
+user	0m0.000s
+sys	0m0.021s
+
+real	0m1.098s
+user	0m0.011s
+sys	0m0.011s
+calling in node 9
+Submitted batch job 6233
+
+real	0m1.096s
+user	0m0.003s
+sys	0m0.018s
+
+real	0m1.095s
+user	0m0.000s
+sys	0m0.022s
+all have been submitted
+lets continue to watch for a performance decrease
+0 minutes and 5 seconds elapsed.
+
+real	0m1.101s
+user	0m0.010s
+sys	0m0.011s
+0 minutes and 10 seconds elapsed.
+
+real	0m1.090s
+user	0m0.011s
+sys	0m0.011s
+0 minutes and 15 seconds elapsed.
+
+real	0m1.096s
+user	0m0.010s
+sys	0m0.011s
+0 minutes and 20 seconds elapsed.
+
+real	0m1.101s
+user	0m0.005s
+sys	0m0.017s
+0 minutes and 25 seconds elapsed.
+
+real	0m1.095s
+user	0m0.000s
+sys	0m0.022s
+0 minutes and 30 seconds elapsed.
+
+real	0m1.093s
+user	0m0.011s
+sys	0m0.011s
+0 minutes and 35 seconds elapsed.
+
+real	0m1.087s
+user	0m0.002s
+sys	0m0.020s
+0 minutes and 40 seconds elapsed.
+
+real	0m1.089s
+user	0m0.005s
+sys	0m0.017s
+slurmstepd: error: *** JOB 6223 ON catch-m6a4xl-demand-dy-m6a4xlarge-1 CANCELLED AT 2024-02-29T22:05:44 ***

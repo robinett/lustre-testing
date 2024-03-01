@@ -1,0 +1,119 @@
+this is the command that we need to run quickly:
+time echo $THISMONTH | rev | cut -d/ -f1 | cut -c1-2 | rev; sleep 0.3
+lets try it in isolation to confirm it runs quickly by default
+
+
+real	0m0.051s
+user	0m0.000s
+sys	0m0.019s
+pretty quick
+the theory is that too many calls to the above command
+slows its performance
+lets test this by firing up nodes one at a time that
+will continually call the above command
+in between calls, the script will move a small number of
+files between directories and then do the same thing again
+progress should slow as more nodes are called in
+lets start
+calling in node 0
+Submitted batch job 6099
+
+real	0m0.047s
+user	0m0.019s
+sys	0m0.001s
+
+real	0m0.046s
+user	0m0.005s
+sys	0m0.014s
+calling in node 1
+Submitted batch job 6100
+
+real	0m0.053s
+user	0m0.016s
+sys	0m0.005s
+
+real	0m0.043s
+user	0m0.005s
+sys	0m0.014s
+calling in node 2
+Submitted batch job 6101
+
+real	0m0.050s
+user	0m0.002s
+sys	0m0.018s
+
+real	0m0.050s
+user	0m0.004s
+sys	0m0.015s
+calling in node 3
+Submitted batch job 6102
+
+real	0m0.054s
+user	0m0.010s
+sys	0m0.010s
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.020s
+calling in node 4
+Submitted batch job 6103
+
+real	0m0.054s
+user	0m0.009s
+sys	0m0.009s
+
+real	0m0.058s
+user	0m0.010s
+sys	0m0.010s
+calling in node 5
+Submitted batch job 6104
+
+real	0m0.055s
+user	0m0.009s
+sys	0m0.010s
+
+real	0m0.055s
+user	0m0.011s
+sys	0m0.008s
+calling in node 6
+Submitted batch job 6105
+
+real	0m0.065s
+user	0m0.014s
+sys	0m0.004s
+
+real	0m0.051s
+user	0m0.005s
+sys	0m0.014s
+calling in node 7
+Submitted batch job 6106
+
+real	0m0.080s
+user	0m0.001s
+sys	0m0.019s
+
+real	0m0.057s
+user	0m0.014s
+sys	0m0.004s
+calling in node 8
+Submitted batch job 6107
+
+real	0m0.061s
+user	0m0.005s
+sys	0m0.015s
+
+real	0m0.058s
+user	0m0.014s
+sys	0m0.005s
+calling in node 9
+Submitted batch job 6108
+
+real	0m0.067s
+user	0m0.005s
+sys	0m0.013s
+
+real	0m0.081s
+user	0m0.009s
+sys	0m0.011s
+all have been submitted
+performance decreased every time a new node was addeded

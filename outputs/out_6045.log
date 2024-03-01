@@ -1,0 +1,127 @@
+this is the command that we need to run quickly:
+time echo $THISMONTH | rev | cut -d/ -f1 | cut -c1-2 | rev; sleep 0.3
+lets try it in isolation to confirm it runs quickly by default
+
+
+real	0m0.037s
+user	0m0.003s
+sys	0m0.016s
+pretty quick
+now lets start moving files to see if this slows performance
+we are going to fire up 10 nodes.
+each node will be charged with continually copying, moving,
+and then deleting files.
+this simulates what happens in post-processing
+we will only time how long it takes to run the echo/rev/cut command
+lets start
+Submitted batch job 6046
+
+real	0m0.034s
+user	0m0.009s
+sys	0m0.009s
+Submitted batch job 6047
+
+real	0m0.158s
+user	0m0.013s
+sys	0m0.004s
+Submitted batch job 6048
+
+real	0m0.401s
+user	0m0.005s
+sys	0m0.014s
+Submitted batch job 6049
+
+real	0m0.472s
+user	0m0.005s
+sys	0m0.014s
+Submitted batch job 6050
+
+real	0m0.673s
+user	0m0.014s
+sys	0m0.005s
+Submitted batch job 6051
+
+real	0m0.687s
+user	0m0.003s
+sys	0m0.018s
+Submitted batch job 6052
+
+real	0m0.688s
+user	0m0.000s
+sys	0m0.018s
+Submitted batch job 6053
+
+real	0m0.706s
+user	0m0.005s
+sys	0m0.013s
+Submitted batch job 6054
+
+real	0m0.657s
+user	0m0.005s
+sys	0m0.013s
+Submitted batch job 6055
+
+real	0m0.677s
+user	0m0.007s
+sys	0m0.015s
+all have been submitted
+lets continue to check in every 10 seconds to follow how it
+further degrades
+stop when you feel like it; this will continue indefinetely
+generally, performance degrades after 5 minutes
+
+real	0m0.677s
+user	0m0.007s
+sys	0m0.015s
+0 minutes and 0 seconds elapsed.
+
+real	0m0.649s
+user	0m0.001s
+sys	0m0.017s
+0 minutes and 5 seconds elapsed.
+
+real	0m0.620s
+user	0m0.010s
+sys	0m0.009s
+0 minutes and 10 seconds elapsed.
+
+real	0m0.661s
+user	0m0.005s
+sys	0m0.013s
+0 minutes and 15 seconds elapsed.
+
+real	0m0.654s
+user	0m0.005s
+sys	0m0.013s
+0 minutes and 20 seconds elapsed.
+
+real	0m0.660s
+user	0m0.015s
+sys	0m0.005s
+0 minutes and 26 seconds elapsed.
+
+real	0m0.665s
+user	0m0.001s
+sys	0m0.019s
+0 minutes and 31 seconds elapsed.
+
+real	0m0.661s
+user	0m0.005s
+sys	0m0.013s
+0 minutes and 36 seconds elapsed.
+
+real	0m0.614s
+user	0m0.012s
+sys	0m0.007s
+0 minutes and 41 seconds elapsed.
+
+real	0m0.684s
+user	0m0.014s
+sys	0m0.005s
+0 minutes and 46 seconds elapsed.
+
+real	0m0.663s
+user	0m0.005s
+sys	0m0.015s
+0 minutes and 51 seconds elapsed.
+slurmstepd: error: *** JOB 6045 ON catch-m6a4xl-demand-dy-m6a4xlarge-15 CANCELLED AT 2024-02-28T21:57:56 ***

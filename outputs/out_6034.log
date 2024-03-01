@@ -1,0 +1,182 @@
+this is the command that we need to run quickly:
+time echo $THISMONTH | rev | cut -d/ -f1 | cut -c1-2 | rev; sleep 0.3
+lets try it in isolation to confirm it runs quickly by default
+
+
+real	0m0.035s
+user	0m0.010s
+sys	0m0.010s
+pretty quick
+now lets start moving files to see if this slows performance
+we are going to fire up 10 nodes.
+each node will be charged with continually copying, moving,
+and then deleting files.
+this simulates what happens in post-processing
+we will only time how long it takes to run the echo/rev/cut command
+lets start
+Submitted batch job 6035
+real	0m0.180s
+user	0m0.000s
+sys	0m0.020s
+slurmstepd: error: *** JOB 6033 ON catch-m6a4xl-demand-dy-m6a4xlarge-1 CANCELLED AT 2024-02-28T21:49:13 ***
+Submitted batch job 6036
+
+real	0m0.225s
+user	0m0.006s
+sys	0m0.018s
+Submitted batch job 6037
+
+real	0m0.438s
+user	0m0.004s
+sys	0m0.015s
+Submitted batch job 6038
+
+real	0m0.655s
+user	0m0.013s
+sys	0m0.005s
+Submitted batch job 6039
+
+real	0m0.877s
+user	0m0.014s
+sys	0m0.005s
+Submitted batch job 6040
+
+real	0m1.096s
+user	0m0.010s
+sys	0m0.010s
+Submitted batch job 6041
+
+real	0m1.148s
+user	0m0.005s
+sys	0m0.016s
+Submitted batch job 6042
+
+real	0m1.152s
+user	0m0.005s
+sys	0m0.014s
+Submitted batch job 6043
+
+real	0m1.147s
+user	0m0.006s
+sys	0m0.014s
+Submitted batch job 6044
+
+real	0m1.156s
+user	0m0.005s
+sys	0m0.016s
+all have been submitted
+lets continue to check in every 10 seconds to follow how it
+further degrades
+stop when you feel like it; this will continue indefinetely
+generally, performance degrades after 5 minutes
+
+real	0m1.146s
+user	0m0.000s
+sys	0m0.020s
+0 minutes and 0 seconds elapsed.
+
+real	0m1.146s
+user	0m0.001s
+sys	0m0.019s
+0 minutes and 5 seconds elapsed.
+
+real	0m1.147s
+user	0m0.005s
+sys	0m0.014s
+0 minutes and 10 seconds elapsed.
+
+real	0m1.148s
+user	0m0.008s
+sys	0m0.012s
+0 minutes and 15 seconds elapsed.
+
+real	0m1.148s
+user	0m0.005s
+sys	0m0.013s
+0 minutes and 20 seconds elapsed.
+
+real	0m1.146s
+user	0m0.004s
+sys	0m0.014s
+0 minutes and 25 seconds elapsed.
+
+real	0m1.151s
+user	0m0.000s
+sys	0m0.021s
+0 minutes and 30 seconds elapsed.
+
+real	0m1.147s
+user	0m0.015s
+sys	0m0.005s
+0 minutes and 35 seconds elapsed.
+
+real	0m1.138s
+user	0m0.000s
+sys	0m0.019s
+0 minutes and 40 seconds elapsed.
+
+real	0m1.147s
+user	0m0.000s
+sys	0m0.019s
+0 minutes and 46 seconds elapsed.
+
+real	0m1.146s
+user	0m0.006s
+sys	0m0.012s
+0 minutes and 51 seconds elapsed.
+
+real	0m1.146s
+user	0m0.018s
+sys	0m0.000s
+0 minutes and 56 seconds elapsed.
+
+real	0m1.150s
+user	0m0.010s
+sys	0m0.010s
+1 minutes and 1 seconds elapsed.
+
+real	0m1.146s
+user	0m0.008s
+sys	0m0.012s
+1 minutes and 6 seconds elapsed.
+
+real	0m1.144s
+user	0m0.010s
+sys	0m0.009s
+1 minutes and 11 seconds elapsed.
+
+real	0m1.147s
+user	0m0.000s
+sys	0m0.019s
+1 minutes and 16 seconds elapsed.
+
+real	0m1.144s
+user	0m0.009s
+sys	0m0.010s
+1 minutes and 21 seconds elapsed.
+
+real	0m1.141s
+user	0m0.002s
+sys	0m0.017s
+1 minutes and 26 seconds elapsed.
+
+real	0m1.143s
+user	0m0.015s
+sys	0m0.005s
+1 minutes and 31 seconds elapsed.
+
+real	0m1.231s
+user	0m0.000s
+sys	0m0.020s
+1 minutes and 36 seconds elapsed.
+
+real	0m1.145s
+user	0m0.000s
+sys	0m0.019s
+1 minutes and 41 seconds elapsed.
+
+real	0m1.144s
+user	0m0.000s
+sys	0m0.020s
+1 minutes and 46 seconds elapsed.
+slurmstepd: error: *** JOB 6034 ON catch-m6a4xl-demand-dy-m6a4xlarge-15 CANCELLED AT 2024-02-28T21:53:37 ***

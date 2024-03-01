@@ -1,0 +1,18 @@
+this is the command that we need to run quickly:
+time echo $THISMONTH | rev | cut -d/ -f1 | cut -c1-2 | rev; sleep 0.3
+lets try it in isolation to confirm it runs quickly by default
+
+
+real	0m0.035s
+user	0m0.005s
+sys	0m0.014s
+pretty quick
+now lets start moving files to see if this slows performance
+we are going to fire up 10 nodes.
+each node will be charged with continually copying, moving,
+and then deleting files.
+this simulates what happens in post-processing
+we will only time how long it takes to run the echo/rev/cut command
+lets start
+Submitted batch job 6033
+slurmstepd: error: *** JOB 6032 ON catch-m6a4xl-demand-dy-m6a4xlarge-15 CANCELLED AT 2024-02-28T21:49:09 ***

@@ -1,0 +1,6198 @@
+
+
+real	0m0.048s
+user	0m0.006s
+sys	0m0.016s
+pretty short
+now lets do it infinetely and see if it slows
+cp: cannot stat './data_1/*.nc4': No such file or directory
+/bin/mv: cannot stat './data_1/*.nc4': No such file or directory
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.059s
+user	0m0.007s
+sys	0m0.001s
+
+
+real	0m0.044s
+user	0m0.001s
+sys	0m0.019s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.045s
+user	0m0.007s
+sys	0m0.000s
+
+
+real	0m0.044s
+user	0m0.001s
+sys	0m0.019s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.043s
+user	0m0.001s
+sys	0m0.019s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.043s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.046s
+user	0m0.004s
+sys	0m0.003s
+
+
+real	0m0.043s
+user	0m0.001s
+sys	0m0.019s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.045s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.044s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.044s
+user	0m0.007s
+sys	0m0.011s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.045s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.044s
+user	0m0.006s
+sys	0m0.015s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.046s
+user	0m0.002s
+sys	0m0.004s
+
+
+real	0m0.045s
+user	0m0.009s
+sys	0m0.011s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.045s
+user	0m0.018s
+sys	0m0.000s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.008s
+
+
+real	0m0.046s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.044s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.044s
+user	0m0.009s
+sys	0m0.009s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.046s
+user	0m0.001s
+sys	0m0.020s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.041s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.043s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.042s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.019s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.043s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.042s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.043s
+user	0m0.002s
+sys	0m0.017s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.044s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.042s
+user	0m0.009s
+sys	0m0.009s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.046s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.045s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.043s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.043s
+user	0m0.007s
+sys	0m0.012s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.046s
+user	0m0.007s
+sys	0m0.000s
+
+
+real	0m0.046s
+user	0m0.003s
+sys	0m0.016s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.043s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.019s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.043s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.048s
+user	0m0.003s
+sys	0m0.017s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.043s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.046s
+user	0m0.005s
+sys	0m0.013s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.044s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.048s
+user	0m0.006s
+sys	0m0.015s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.044s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.046s
+user	0m0.009s
+sys	0m0.011s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.044s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.043s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.046s
+user	0m0.007s
+sys	0m0.013s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.042s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.018s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.040s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.043s
+user	0m0.013s
+sys	0m0.005s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.044s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.044s
+user	0m0.014s
+sys	0m0.005s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.040s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.044s
+user	0m0.010s
+sys	0m0.009s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.043s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.047s
+user	0m0.009s
+sys	0m0.009s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.042s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.044s
+user	0m0.009s
+sys	0m0.009s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.046s
+user	0m0.007s
+sys	0m0.000s
+
+
+real	0m0.045s
+user	0m0.013s
+sys	0m0.005s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.045s
+user	0m0.010s
+sys	0m0.011s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.042s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.045s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.046s
+user	0m0.006s
+sys	0m0.016s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.043s
+user	0m0.005s
+sys	0m0.015s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.044s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.045s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.044s
+user	0m0.000s
+sys	0m0.018s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.043s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.047s
+user	0m0.019s
+sys	0m0.000s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.045s
+user	0m0.007s
+sys	0m0.012s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.044s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.044s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.046s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.019s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.047s
+user	0m0.003s
+sys	0m0.016s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.045s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.048s
+user	0m0.003s
+sys	0m0.003s
+
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.019s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.048s
+user	0m0.003s
+sys	0m0.003s
+
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.020s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.052s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.047s
+user	0m0.015s
+sys	0m0.006s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.044s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.045s
+user	0m0.015s
+sys	0m0.005s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.044s
+user	0m0.015s
+sys	0m0.006s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.048s
+user	0m0.015s
+sys	0m0.006s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.047s
+user	0m0.016s
+sys	0m0.005s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.046s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.047s
+user	0m0.006s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.047s
+user	0m0.005s
+sys	0m0.015s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.048s
+user	0m0.005s
+sys	0m0.015s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.020s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.046s
+user	0m0.005s
+sys	0m0.015s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.048s
+user	0m0.003s
+sys	0m0.003s
+
+
+real	0m0.047s
+user	0m0.010s
+sys	0m0.009s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.054s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.019s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.044s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.045s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.050s
+user	0m0.005s
+sys	0m0.015s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.050s
+user	0m0.007s
+sys	0m0.000s
+
+
+real	0m0.047s
+user	0m0.007s
+sys	0m0.012s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.018s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.051s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.049s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.018s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.051s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.049s
+user	0m0.010s
+sys	0m0.009s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.019s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.051s
+user	0m0.007s
+sys	0m0.000s
+
+
+real	0m0.051s
+user	0m0.000s
+sys	0m0.021s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.049s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.050s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.052s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.044s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.047s
+user	0m0.001s
+sys	0m0.017s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.043s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.048s
+user	0m0.008s
+sys	0m0.011s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.049s
+user	0m0.003s
+sys	0m0.003s
+
+
+real	0m0.047s
+user	0m0.015s
+sys	0m0.005s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.045s
+user	0m0.018s
+sys	0m0.001s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.048s
+user	0m0.003s
+sys	0m0.003s
+
+
+real	0m0.051s
+user	0m0.000s
+sys	0m0.020s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.049s
+user	0m0.002s
+sys	0m0.005s
+
+
+real	0m0.051s
+user	0m0.005s
+sys	0m0.015s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.052s
+user	0m0.005s
+sys	0m0.015s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.048s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.049s
+user	0m0.003s
+sys	0m0.003s
+
+
+real	0m0.047s
+user	0m0.006s
+sys	0m0.013s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.048s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.050s
+user	0m0.010s
+sys	0m0.009s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.049s
+user	0m0.018s
+sys	0m0.000s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.048s
+user	0m0.005s
+sys	0m0.015s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.050s
+user	0m0.005s
+sys	0m0.013s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.051s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.073s
+user	0m0.009s
+sys	0m0.009s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.048s
+user	0m0.002s
+sys	0m0.017s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.052s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.049s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.019s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.042s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.048s
+user	0m0.005s
+sys	0m0.015s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.049s
+user	0m0.009s
+sys	0m0.009s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.042s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.050s
+user	0m0.020s
+sys	0m0.000s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.044s
+user	0m0.014s
+sys	0m0.005s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.045s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.047s
+user	0m0.005s
+sys	0m0.016s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.051s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.048s
+user	0m0.007s
+sys	0m0.000s
+
+
+real	0m0.052s
+user	0m0.000s
+sys	0m0.022s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.050s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.045s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.053s
+user	0m0.017s
+sys	0m0.003s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.053s
+user	0m0.006s
+sys	0m0.015s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.052s
+user	0m0.007s
+sys	0m0.000s
+
+
+real	0m0.052s
+user	0m0.010s
+sys	0m0.011s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.060s
+user	0m0.000s
+sys	0m0.019s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.049s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.054s
+user	0m0.001s
+sys	0m0.020s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.055s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.018s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.052s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.049s
+user	0m0.002s
+sys	0m0.016s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.051s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.050s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.063s
+user	0m0.014s
+sys	0m0.005s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.076s
+user	0m0.007s
+sys	0m0.011s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.077s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.067s
+user	0m0.009s
+sys	0m0.009s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.062s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.050s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.050s
+user	0m0.015s
+sys	0m0.005s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.048s
+user	0m0.018s
+sys	0m0.000s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.041s
+user	0m0.000s
+sys	0m0.004s
+
+
+real	0m0.049s
+user	0m0.016s
+sys	0m0.005s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.044s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.050s
+user	0m0.005s
+sys	0m0.015s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.041s
+user	0m0.002s
+sys	0m0.002s
+
+
+real	0m0.047s
+user	0m0.013s
+sys	0m0.005s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.040s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.048s
+user	0m0.010s
+sys	0m0.009s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.043s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.050s
+user	0m0.014s
+sys	0m0.005s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.050s
+user	0m0.001s
+sys	0m0.018s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.050s
+user	0m0.010s
+sys	0m0.009s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.044s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.049s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.045s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.049s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.048s
+user	0m0.003s
+sys	0m0.017s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.048s
+user	0m0.007s
+sys	0m0.012s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.047s
+user	0m0.005s
+sys	0m0.013s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.049s
+user	0m0.010s
+sys	0m0.009s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.053s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.049s
+user	0m0.004s
+sys	0m0.015s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.052s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.044s
+user	0m0.000s
+sys	0m0.020s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.053s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.045s
+user	0m0.008s
+sys	0m0.012s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.055s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.048s
+user	0m0.008s
+sys	0m0.013s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.064s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.051s
+user	0m0.000s
+sys	0m0.022s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.051s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.047s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.055s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.048s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.051s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.051s
+user	0m0.012s
+sys	0m0.008s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.050s
+user	0m0.003s
+sys	0m0.003s
+
+
+real	0m0.054s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.051s
+user	0m0.014s
+sys	0m0.005s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.051s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.051s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.018s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.051s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.051s
+user	0m0.005s
+sys	0m0.016s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.049s
+user	0m0.007s
+sys	0m0.000s
+
+
+real	0m0.049s
+user	0m0.007s
+sys	0m0.012s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.020s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.049s
+user	0m0.005s
+sys	0m0.015s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.052s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.047s
+user	0m0.004s
+sys	0m0.004s
+
+
+real	0m0.050s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.050s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.043s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.049s
+user	0m0.014s
+sys	0m0.005s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.044s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.050s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.042s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.051s
+user	0m0.007s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.056s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.042s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.051s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.042s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.051s
+user	0m0.019s
+sys	0m0.000s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.047s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.049s
+user	0m0.016s
+sys	0m0.003s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.045s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.045s
+user	0m0.010s
+sys	0m0.009s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.044s
+user	0m0.014s
+sys	0m0.006s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.044s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.043s
+user	0m0.009s
+sys	0m0.009s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.044s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.045s
+user	0m0.013s
+sys	0m0.005s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.053s
+user	0m0.016s
+sys	0m0.006s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.050s
+user	0m0.009s
+sys	0m0.009s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.049s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.051s
+user	0m0.013s
+sys	0m0.005s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.051s
+user	0m0.007s
+sys	0m0.000s
+
+
+real	0m0.053s
+user	0m0.001s
+sys	0m0.018s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.053s
+user	0m0.007s
+sys	0m0.013s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.052s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.049s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.050s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.049s
+user	0m0.002s
+sys	0m0.004s
+
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.019s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.044s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.049s
+user	0m0.005s
+sys	0m0.013s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.043s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.045s
+user	0m0.009s
+sys	0m0.009s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.044s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.021s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.044s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.047s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.019s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.008s
+
+
+real	0m0.047s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.043s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.048s
+user	0m0.005s
+sys	0m0.017s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.045s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.047s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.045s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.045s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.047s
+user	0m0.020s
+sys	0m0.001s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.053s
+user	0m0.015s
+sys	0m0.005s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.053s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.051s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.047s
+user	0m0.011s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.046s
+user	0m0.005s
+sys	0m0.016s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.055s
+user	0m0.000s
+sys	0m0.008s
+
+
+real	0m0.043s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.052s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.019s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.052s
+user	0m0.004s
+sys	0m0.004s
+
+
+real	0m0.048s
+user	0m0.001s
+sys	0m0.020s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.047s
+user	0m0.014s
+sys	0m0.005s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.050s
+user	0m0.015s
+sys	0m0.005s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.053s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.048s
+user	0m0.007s
+sys	0m0.011s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.051s
+user	0m0.004s
+sys	0m0.016s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.049s
+user	0m0.018s
+sys	0m0.000s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.053s
+user	0m0.000s
+sys	0m0.008s
+
+
+real	0m0.050s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.051s
+user	0m0.014s
+sys	0m0.006s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.051s
+user	0m0.000s
+sys	0m0.019s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.045s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.048s
+user	0m0.007s
+sys	0m0.012s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.045s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.053s
+user	0m0.000s
+sys	0m0.019s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.048s
+user	0m0.007s
+sys	0m0.000s
+
+
+real	0m0.049s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.051s
+user	0m0.014s
+sys	0m0.005s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.049s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.048s
+user	0m0.009s
+sys	0m0.009s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.049s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.044s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.052s
+user	0m0.000s
+sys	0m0.018s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.051s
+user	0m0.000s
+sys	0m0.017s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.046s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.052s
+user	0m0.007s
+sys	0m0.012s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.049s
+user	0m0.004s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.044s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.018s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.053s
+user	0m0.006s
+sys	0m0.015s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.048s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.052s
+user	0m0.010s
+sys	0m0.011s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.042s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.049s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.046s
+user	0m0.014s
+sys	0m0.005s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.047s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.048s
+user	0m0.007s
+sys	0m0.000s
+
+
+real	0m0.053s
+user	0m0.010s
+sys	0m0.009s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.045s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.049s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.047s
+user	0m0.010s
+sys	0m0.009s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.043s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.045s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.044s
+user	0m0.006s
+sys	0m0.000s
+
+
+real	0m0.044s
+user	0m0.005s
+sys	0m0.015s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.052s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.047s
+user	0m0.009s
+sys	0m0.011s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.054s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.049s
+user	0m0.007s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.052s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.051s
+user	0m0.005s
+sys	0m0.015s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.056s
+user	0m0.000s
+sys	0m0.009s
+
+
+real	0m0.052s
+user	0m0.006s
+sys	0m0.016s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.050s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.052s
+user	0m0.010s
+sys	0m0.011s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.052s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.054s
+user	0m0.006s
+sys	0m0.016s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.052s
+user	0m0.000s
+sys	0m0.008s
+
+
+real	0m0.051s
+user	0m0.010s
+sys	0m0.011s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.052s
+user	0m0.005s
+sys	0m0.015s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.051s
+user	0m0.015s
+sys	0m0.006s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.050s
+user	0m0.009s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.044s
+user	0m0.005s
+sys	0m0.000s
+
+
+real	0m0.053s
+user	0m0.000s
+sys	0m0.021s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.048s
+user	0m0.007s
+sys	0m0.000s
+
+
+real	0m0.049s
+user	0m0.010s
+sys	0m0.010s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.048s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.007s
+
+
+real	0m0.052s
+user	0m0.016s
+sys	0m0.006s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.047s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.051s
+user	0m0.014s
+sys	0m0.005s
+/bin/rm: cannot remove './data_1/*.nc4': No such file or directory
+0.tavg24_1d_lnd_Nt.20060101_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060102_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060103_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060104_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060105_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060106_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060107_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060108_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060109_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060110_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060111_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060112_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060113_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060114_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060115_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060116_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060117_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060118_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060119_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060120_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060121_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060122_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060123_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060124_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060125_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060126_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060127_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060128_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060129_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060130_1200z.nc4
+0.tavg24_1d_lnd_Nt.20060131_1200z.nc4
+0.tavg24_1d_lnd_Nt.monthly.200601.nc4
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.006s
+
+
+real	0m0.048s
+user	0m0.005s
+sys	0m0.014s
+/bin/rm: cannot remove './data_2/*.nc4': No such file or directory
+
+real	0m0.042s
+user	0m0.000s
+sys	0m0.005s
+
+
+real	0m0.044s
+user	0m0.005s
+sys	0m0.014s
+slurmstepd: error: *** JOB 5929 ON catch-m6a4xl-demand-dy-m6a4xlarge-1 CANCELLED AT 2024-02-28T18:30:16 ***

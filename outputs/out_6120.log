@@ -1,0 +1,80 @@
+this is the command that we need to run quickly:
+time echo $THISMONTH | rev | cut -d/ -f1 | cut -c1-2 | rev; sleep 0.3
+lets try it in isolation to confirm it runs quickly by default
+
+
+real	0m0.047s
+user	0m0.010s
+sys	0m0.010s
+pretty quick
+the theory is that too many calls to the above command
+slows its performance
+lets test this by firing up nodes one at a time that
+will continually call the above command
+in between calls, the script will move a small number of
+files between directories and then do the same thing again
+progress should slow as more nodes are called in
+lets start
+calling in node 0
+Submitted batch job 6121
+real	0m0.044s
+user	0m0.014s
+sys	0m0.005s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+
+real	0m0.043s
+user	0m0.000s
+sys	0m0.018s
+calling in node 1
+Submitted batch job 6122
+real	0m0.052s
+user	0m0.000s
+sys	0m0.020s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+real	0m0.049s
+user	0m0.005s
+sys	0m0.015s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+calling in node 2
+Submitted batch job 6123
+real	0m0.047s
+user	0m0.006s
+sys	0m0.013s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+real	0m0.054s
+user	0m0.005s
+sys	0m0.013s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+calling in node 3
+Submitted batch job 6124
+real	0m0.050s
+user	0m0.015s
+sys	0m0.005s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+real	0m0.053s
+user	0m0.009s
+sys	0m0.010s
+cp: cannot stat './data_2/*.nc4': No such file or directory
+calling in node 4
+Submitted batch job 6125
+real	0m0.054s
+user	0m0.009s
+sys	0m0.010s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+real	0m0.052s
+user	0m0.004s
+sys	0m0.015s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+calling in node 5
+Submitted batch job 6126
+
+real	0m0.062s
+user	0m0.005s
+sys	0m0.014s
+real	0m0.052s
+user	0m0.011s
+sys	0m0.009s
+cp: cannot stat './data_1/*.nc4': No such file or directory
+calling in node 6
+Submitted batch job 6127
+slurmstepd: error: *** JOB 6120 ON catch-m6a4xl-demand-dy-m6a4xlarge-1 CANCELLED AT 2024-02-29T21:20:49 ***

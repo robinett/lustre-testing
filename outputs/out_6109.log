@@ -1,0 +1,245 @@
+this is the command that we need to run quickly:
+time echo $THISMONTH | rev | cut -d/ -f1 | cut -c1-2 | rev; sleep 0.3
+lets try it in isolation to confirm it runs quickly by default
+
+
+real	0m0.044s
+user	0m0.010s
+sys	0m0.009s
+pretty quick
+the theory is that too many calls to the above command
+slows its performance
+lets test this by firing up nodes one at a time that
+will continually call the above command
+in between calls, the script will move a small number of
+files between directories and then do the same thing again
+progress should slow as more nodes are called in
+lets start
+calling in node 0
+Submitted batch job 6110
+
+real	0m0.044s
+user	0m0.006s
+sys	0m0.014s
+
+real	0m0.044s
+user	0m0.005s
+sys	0m0.014s
+calling in node 1
+Submitted batch job 6111
+
+real	0m0.045s
+user	0m0.000s
+sys	0m0.017s
+
+real	0m0.044s
+user	0m0.014s
+sys	0m0.005s
+calling in node 2
+Submitted batch job 6112
+
+real	0m0.044s
+user	0m0.007s
+sys	0m0.011s
+
+real	0m0.046s
+user	0m0.000s
+sys	0m0.019s
+calling in node 3
+Submitted batch job 6113
+
+real	0m0.048s
+user	0m0.005s
+sys	0m0.014s
+
+real	0m0.051s
+user	0m0.000s
+sys	0m0.020s
+calling in node 4
+Submitted batch job 6114
+
+real	0m0.046s
+user	0m0.010s
+sys	0m0.010s
+
+real	0m0.057s
+user	0m0.012s
+sys	0m0.008s
+calling in node 5
+Submitted batch job 6115
+
+real	0m0.058s
+user	0m0.000s
+sys	0m0.018s
+
+real	0m0.064s
+user	0m0.014s
+sys	0m0.005s
+calling in node 6
+Submitted batch job 6116
+
+real	0m0.050s
+user	0m0.001s
+sys	0m0.020s
+
+real	0m0.059s
+user	0m0.009s
+sys	0m0.010s
+calling in node 7
+Submitted batch job 6117
+
+real	0m0.051s
+user	0m0.005s
+sys	0m0.015s
+
+real	0m0.052s
+user	0m0.000s
+sys	0m0.019s
+calling in node 8
+Submitted batch job 6118
+
+real	0m0.091s
+user	0m0.005s
+sys	0m0.016s
+
+real	0m0.082s
+user	0m0.007s
+sys	0m0.011s
+calling in node 9
+Submitted batch job 6119
+
+real	0m0.053s
+user	0m0.018s
+sys	0m0.000s
+
+real	0m0.068s
+user	0m0.004s
+sys	0m0.015s
+all have been submitted
+lets continue to watch for a performance decrease
+0 minutes and 5 seconds elapsed.
+
+real	0m0.073s
+user	0m0.000s
+sys	0m0.019s
+0 minutes and 10 seconds elapsed.
+
+real	0m0.070s
+user	0m0.008s
+sys	0m0.011s
+0 minutes and 15 seconds elapsed.
+
+real	0m0.100s
+user	0m0.013s
+sys	0m0.007s
+0 minutes and 20 seconds elapsed.
+
+real	0m0.106s
+user	0m0.005s
+sys	0m0.014s
+0 minutes and 25 seconds elapsed.
+
+real	0m0.081s
+user	0m0.002s
+sys	0m0.016s
+0 minutes and 30 seconds elapsed.
+
+real	0m0.076s
+user	0m0.018s
+sys	0m0.000s
+0 minutes and 36 seconds elapsed.
+
+real	0m0.068s
+user	0m0.005s
+sys	0m0.013s
+0 minutes and 41 seconds elapsed.
+
+real	0m0.070s
+user	0m0.008s
+sys	0m0.010s
+0 minutes and 46 seconds elapsed.
+
+real	0m0.102s
+user	0m0.009s
+sys	0m0.010s
+0 minutes and 51 seconds elapsed.
+
+real	0m0.078s
+user	0m0.000s
+sys	0m0.019s
+0 minutes and 56 seconds elapsed.
+
+real	0m0.093s
+user	0m0.005s
+sys	0m0.014s
+1 minutes and 1 seconds elapsed.
+
+real	0m0.078s
+user	0m0.004s
+sys	0m0.014s
+1 minutes and 6 seconds elapsed.
+
+real	0m0.097s
+user	0m0.014s
+sys	0m0.005s
+1 minutes and 11 seconds elapsed.
+
+real	0m0.074s
+user	0m0.009s
+sys	0m0.009s
+1 minutes and 16 seconds elapsed.
+
+real	0m0.064s
+user	0m0.003s
+sys	0m0.016s
+1 minutes and 21 seconds elapsed.
+
+real	0m0.057s
+user	0m0.009s
+sys	0m0.009s
+1 minutes and 27 seconds elapsed.
+
+real	0m0.053s
+user	0m0.009s
+sys	0m0.010s
+1 minutes and 32 seconds elapsed.
+
+real	0m0.088s
+user	0m0.007s
+sys	0m0.012s
+1 minutes and 37 seconds elapsed.
+
+real	0m0.119s
+user	0m0.000s
+sys	0m0.020s
+1 minutes and 42 seconds elapsed.
+
+real	0m0.064s
+user	0m0.009s
+sys	0m0.009s
+1 minutes and 47 seconds elapsed.
+
+real	0m0.058s
+user	0m0.010s
+sys	0m0.009s
+1 minutes and 52 seconds elapsed.
+
+real	0m0.057s
+user	0m0.010s
+sys	0m0.010s
+1 minutes and 57 seconds elapsed.
+
+real	0m0.092s
+user	0m0.005s
+sys	0m0.013s
+2 minutes and 2 seconds elapsed.
+
+real	0m0.049s
+user	0m0.009s
+sys	0m0.009s
+2 minutes and 7 seconds elapsed.
+
+real	0m0.061s
+user	0m0.004s
+sys	0m0.016s
+slurmstepd: error: *** JOB 6109 ON catch-m6a4xl-demand-dy-m6a4xlarge-1 CANCELLED AT 2024-02-29T21:18:01 ***
