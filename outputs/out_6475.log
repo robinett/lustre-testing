@@ -1,0 +1,720 @@
+this is the command that we need to run quickly:
+time echo $THISMONTH | rev | cut -d/ -f1 | cut -c1-2 | rev
+lets try it in isolation to confirm it runs quickly by default
+
+
+real	0m0.041s
+user	0m0.010s
+sys	0m0.009s
+pretty quick
+the theory is that too many calls to the above command
+slows its performance
+lets test this by firing up nodes one at a time that
+will continually call the above command
+in between calls, the script will move a small number of
+files between directories and then do the same thing again
+progress should slow as more nodes are called in
+lets start
+calling in node 0
+Submitted batch job 6476
+
+real	0m0.035s
+user	0m0.008s
+sys	0m0.009s
+
+real	0m0.034s
+user	0m0.002s
+sys	0m0.014s
+calling in node 1
+Submitted batch job 6477
+
+real	0m0.039s
+user	0m0.000s
+sys	0m0.018s
+
+real	0m0.041s
+user	0m0.008s
+sys	0m0.009s
+calling in node 2
+Submitted batch job 6478
+
+real	0m0.039s
+user	0m0.007s
+sys	0m0.009s
+
+real	0m0.045s
+user	0m0.008s
+sys	0m0.008s
+calling in node 3
+Submitted batch job 6479
+
+real	0m0.037s
+user	0m0.011s
+sys	0m0.004s
+
+real	0m0.039s
+user	0m0.012s
+sys	0m0.004s
+calling in node 4
+Submitted batch job 6480
+
+real	0m0.048s
+user	0m0.014s
+sys	0m0.000s
+
+real	0m0.059s
+user	0m0.016s
+sys	0m0.000s
+calling in node 5
+Submitted batch job 6481
+
+real	0m0.060s
+user	0m0.012s
+sys	0m0.004s
+
+real	0m0.059s
+user	0m0.004s
+sys	0m0.011s
+calling in node 6
+Submitted batch job 6482
+
+real	0m0.072s
+user	0m0.011s
+sys	0m0.004s
+
+real	0m0.074s
+user	0m0.007s
+sys	0m0.010s
+calling in node 7
+Submitted batch job 6483
+
+real	0m0.060s
+user	0m0.008s
+sys	0m0.008s
+
+real	0m0.086s
+user	0m0.000s
+sys	0m0.015s
+calling in node 8
+Submitted batch job 6484
+
+real	0m0.091s
+user	0m0.010s
+sys	0m0.004s
+
+real	0m0.092s
+user	0m0.010s
+sys	0m0.004s
+calling in node 9
+Submitted batch job 6485
+
+real	0m0.099s
+user	0m0.007s
+sys	0m0.007s
+
+real	0m0.096s
+user	0m0.011s
+sys	0m0.004s
+all have been submitted
+lets continue to watch for a performance decrease
+0 minutes and 5 seconds elapsed.
+
+real	0m0.112s
+user	0m0.015s
+sys	0m0.000s
+0 minutes and 10 seconds elapsed.
+
+real	0m0.090s
+user	0m0.011s
+sys	0m0.004s
+0 minutes and 15 seconds elapsed.
+
+real	0m0.085s
+user	0m0.010s
+sys	0m0.004s
+0 minutes and 20 seconds elapsed.
+
+real	0m0.082s
+user	0m0.007s
+sys	0m0.007s
+0 minutes and 25 seconds elapsed.
+
+real	0m0.113s
+user	0m0.007s
+sys	0m0.008s
+0 minutes and 30 seconds elapsed.
+
+real	0m0.090s
+user	0m0.004s
+sys	0m0.011s
+0 minutes and 35 seconds elapsed.
+
+real	0m0.109s
+user	0m0.007s
+sys	0m0.008s
+0 minutes and 41 seconds elapsed.
+
+real	0m0.090s
+user	0m0.009s
+sys	0m0.006s
+0 minutes and 46 seconds elapsed.
+
+real	0m0.079s
+user	0m0.014s
+sys	0m0.000s
+0 minutes and 51 seconds elapsed.
+
+real	0m0.119s
+user	0m0.007s
+sys	0m0.009s
+0 minutes and 56 seconds elapsed.
+
+real	0m0.072s
+user	0m0.004s
+sys	0m0.011s
+1 minutes and 1 seconds elapsed.
+
+real	0m0.089s
+user	0m0.010s
+sys	0m0.004s
+1 minutes and 6 seconds elapsed.
+
+real	0m0.093s
+user	0m0.000s
+sys	0m0.015s
+1 minutes and 11 seconds elapsed.
+
+real	0m0.106s
+user	0m0.004s
+sys	0m0.011s
+1 minutes and 16 seconds elapsed.
+
+real	0m0.099s
+user	0m0.008s
+sys	0m0.007s
+1 minutes and 21 seconds elapsed.
+
+real	0m0.093s
+user	0m0.005s
+sys	0m0.010s
+1 minutes and 26 seconds elapsed.
+
+real	0m0.088s
+user	0m0.007s
+sys	0m0.007s
+1 minutes and 31 seconds elapsed.
+
+real	0m0.071s
+user	0m0.014s
+sys	0m0.000s
+1 minutes and 36 seconds elapsed.
+
+real	0m0.064s
+user	0m0.000s
+sys	0m0.015s
+1 minutes and 41 seconds elapsed.
+
+real	0m0.098s
+user	0m0.007s
+sys	0m0.008s
+1 minutes and 46 seconds elapsed.
+
+real	0m0.085s
+user	0m0.011s
+sys	0m0.004s
+1 minutes and 52 seconds elapsed.
+
+real	0m0.106s
+user	0m0.003s
+sys	0m0.011s
+1 minutes and 57 seconds elapsed.
+
+real	0m0.107s
+user	0m0.007s
+sys	0m0.008s
+2 minutes and 2 seconds elapsed.
+
+real	0m0.084s
+user	0m0.000s
+sys	0m0.014s
+2 minutes and 7 seconds elapsed.
+
+real	0m0.087s
+user	0m0.014s
+sys	0m0.000s
+2 minutes and 12 seconds elapsed.
+
+real	0m0.129s
+user	0m0.004s
+sys	0m0.012s
+2 minutes and 17 seconds elapsed.
+
+real	0m0.114s
+user	0m0.007s
+sys	0m0.007s
+2 minutes and 22 seconds elapsed.
+
+real	0m0.087s
+user	0m0.011s
+sys	0m0.004s
+2 minutes and 27 seconds elapsed.
+
+real	0m0.086s
+user	0m0.011s
+sys	0m0.004s
+2 minutes and 32 seconds elapsed.
+
+real	0m0.087s
+user	0m0.007s
+sys	0m0.007s
+2 minutes and 37 seconds elapsed.
+
+real	0m0.098s
+user	0m0.008s
+sys	0m0.007s
+2 minutes and 42 seconds elapsed.
+
+real	0m0.115s
+user	0m0.008s
+sys	0m0.008s
+2 minutes and 47 seconds elapsed.
+
+real	0m0.100s
+user	0m0.008s
+sys	0m0.007s
+2 minutes and 52 seconds elapsed.
+
+real	0m0.091s
+user	0m0.004s
+sys	0m0.011s
+2 minutes and 57 seconds elapsed.
+
+real	0m0.070s
+user	0m0.007s
+sys	0m0.008s
+3 minutes and 2 seconds elapsed.
+
+real	0m0.096s
+user	0m0.004s
+sys	0m0.012s
+3 minutes and 8 seconds elapsed.
+
+real	0m0.081s
+user	0m0.010s
+sys	0m0.004s
+3 minutes and 13 seconds elapsed.
+
+real	0m0.097s
+user	0m0.011s
+sys	0m0.004s
+3 minutes and 18 seconds elapsed.
+
+real	0m0.126s
+user	0m0.004s
+sys	0m0.011s
+3 minutes and 23 seconds elapsed.
+
+real	0m0.085s
+user	0m0.011s
+sys	0m0.004s
+3 minutes and 28 seconds elapsed.
+
+real	0m0.100s
+user	0m0.014s
+sys	0m0.000s
+3 minutes and 33 seconds elapsed.
+
+real	0m0.098s
+user	0m0.007s
+sys	0m0.007s
+3 minutes and 38 seconds elapsed.
+
+real	0m0.093s
+user	0m0.004s
+sys	0m0.010s
+3 minutes and 43 seconds elapsed.
+
+real	0m0.080s
+user	0m0.012s
+sys	0m0.004s
+3 minutes and 48 seconds elapsed.
+
+real	0m0.099s
+user	0m0.011s
+sys	0m0.004s
+3 minutes and 53 seconds elapsed.
+
+real	0m0.086s
+user	0m0.007s
+sys	0m0.007s
+3 minutes and 58 seconds elapsed.
+
+real	0m0.086s
+user	0m0.011s
+sys	0m0.004s
+4 minutes and 3 seconds elapsed.
+
+real	0m0.078s
+user	0m0.011s
+sys	0m0.004s
+4 minutes and 8 seconds elapsed.
+
+real	0m0.092s
+user	0m0.004s
+sys	0m0.011s
+4 minutes and 14 seconds elapsed.
+
+real	0m0.082s
+user	0m0.014s
+sys	0m0.000s
+4 minutes and 19 seconds elapsed.
+
+real	0m0.128s
+user	0m0.007s
+sys	0m0.007s
+4 minutes and 24 seconds elapsed.
+
+real	0m0.138s
+user	0m0.014s
+sys	0m0.000s
+4 minutes and 29 seconds elapsed.
+
+real	0m0.121s
+user	0m0.011s
+sys	0m0.004s
+4 minutes and 34 seconds elapsed.
+
+real	0m0.117s
+user	0m0.008s
+sys	0m0.008s
+4 minutes and 39 seconds elapsed.
+
+real	0m0.105s
+user	0m0.002s
+sys	0m0.013s
+4 minutes and 44 seconds elapsed.
+
+real	0m0.102s
+user	0m0.000s
+sys	0m0.015s
+4 minutes and 49 seconds elapsed.
+
+real	0m0.083s
+user	0m0.007s
+sys	0m0.009s
+4 minutes and 54 seconds elapsed.
+
+real	0m0.106s
+user	0m0.000s
+sys	0m0.015s
+4 minutes and 59 seconds elapsed.
+
+real	0m0.105s
+user	0m0.003s
+sys	0m0.011s
+5 minutes and 4 seconds elapsed.
+
+real	0m0.080s
+user	0m0.004s
+sys	0m0.011s
+5 minutes and 9 seconds elapsed.
+
+real	0m0.085s
+user	0m0.010s
+sys	0m0.004s
+5 minutes and 15 seconds elapsed.
+
+real	0m0.092s
+user	0m0.011s
+sys	0m0.004s
+5 minutes and 20 seconds elapsed.
+
+real	0m0.079s
+user	0m0.006s
+sys	0m0.009s
+5 minutes and 25 seconds elapsed.
+
+real	0m0.074s
+user	0m0.000s
+sys	0m0.015s
+5 minutes and 30 seconds elapsed.
+
+real	0m0.080s
+user	0m0.015s
+sys	0m0.000s
+5 minutes and 35 seconds elapsed.
+
+real	0m0.091s
+user	0m0.004s
+sys	0m0.011s
+5 minutes and 40 seconds elapsed.
+
+real	0m0.104s
+user	0m0.007s
+sys	0m0.007s
+5 minutes and 45 seconds elapsed.
+
+real	0m0.083s
+user	0m0.005s
+sys	0m0.011s
+5 minutes and 50 seconds elapsed.
+
+real	0m0.090s
+user	0m0.011s
+sys	0m0.004s
+5 minutes and 55 seconds elapsed.
+
+real	0m0.085s
+user	0m0.000s
+sys	0m0.015s
+6 minutes and 0 seconds elapsed.
+
+real	0m0.073s
+user	0m0.011s
+sys	0m0.005s
+6 minutes and 5 seconds elapsed.
+
+real	0m0.114s
+user	0m0.000s
+sys	0m0.016s
+6 minutes and 10 seconds elapsed.
+
+real	0m0.096s
+user	0m0.010s
+sys	0m0.004s
+6 minutes and 15 seconds elapsed.
+
+real	0m0.103s
+user	0m0.011s
+sys	0m0.004s
+6 minutes and 21 seconds elapsed.
+
+real	0m0.084s
+user	0m0.011s
+sys	0m0.004s
+6 minutes and 26 seconds elapsed.
+
+real	0m0.116s
+user	0m0.008s
+sys	0m0.007s
+6 minutes and 31 seconds elapsed.
+
+real	0m0.088s
+user	0m0.007s
+sys	0m0.007s
+6 minutes and 36 seconds elapsed.
+
+real	0m0.098s
+user	0m0.004s
+sys	0m0.011s
+6 minutes and 41 seconds elapsed.
+
+real	0m0.100s
+user	0m0.005s
+sys	0m0.010s
+6 minutes and 46 seconds elapsed.
+
+real	0m0.094s
+user	0m0.015s
+sys	0m0.000s
+6 minutes and 51 seconds elapsed.
+
+real	0m0.092s
+user	0m0.007s
+sys	0m0.008s
+6 minutes and 56 seconds elapsed.
+
+real	0m0.100s
+user	0m0.007s
+sys	0m0.007s
+7 minutes and 1 seconds elapsed.
+
+real	0m0.097s
+user	0m0.007s
+sys	0m0.007s
+7 minutes and 6 seconds elapsed.
+
+real	0m0.085s
+user	0m0.007s
+sys	0m0.007s
+7 minutes and 11 seconds elapsed.
+
+real	0m0.103s
+user	0m0.009s
+sys	0m0.006s
+7 minutes and 16 seconds elapsed.
+
+real	0m0.100s
+user	0m0.011s
+sys	0m0.005s
+7 minutes and 21 seconds elapsed.
+
+real	0m0.084s
+user	0m0.008s
+sys	0m0.008s
+7 minutes and 26 seconds elapsed.
+
+real	0m0.109s
+user	0m0.004s
+sys	0m0.011s
+7 minutes and 32 seconds elapsed.
+
+real	0m0.096s
+user	0m0.011s
+sys	0m0.004s
+7 minutes and 37 seconds elapsed.
+
+real	0m0.482s
+user	0m0.004s
+sys	0m0.012s
+7 minutes and 42 seconds elapsed.
+
+real	0m0.869s
+user	0m0.005s
+sys	0m0.013s
+7 minutes and 47 seconds elapsed.
+
+real	0m0.870s
+user	0m0.004s
+sys	0m0.013s
+7 minutes and 52 seconds elapsed.
+
+real	0m0.870s
+user	0m0.008s
+sys	0m0.009s
+7 minutes and 57 seconds elapsed.
+
+real	0m0.871s
+user	0m0.004s
+sys	0m0.014s
+8 minutes and 2 seconds elapsed.
+
+real	0m0.871s
+user	0m0.008s
+sys	0m0.008s
+8 minutes and 7 seconds elapsed.
+
+real	0m0.871s
+user	0m0.008s
+sys	0m0.010s
+8 minutes and 12 seconds elapsed.
+
+real	0m0.873s
+user	0m0.018s
+sys	0m0.000s
+8 minutes and 17 seconds elapsed.
+
+real	0m0.869s
+user	0m0.009s
+sys	0m0.009s
+8 minutes and 22 seconds elapsed.
+
+real	0m0.872s
+user	0m0.008s
+sys	0m0.008s
+8 minutes and 27 seconds elapsed.
+
+real	0m0.873s
+user	0m0.004s
+sys	0m0.013s
+8 minutes and 32 seconds elapsed.
+
+real	0m0.869s
+user	0m0.010s
+sys	0m0.007s
+8 minutes and 37 seconds elapsed.
+
+real	0m0.871s
+user	0m0.004s
+sys	0m0.013s
+8 minutes and 42 seconds elapsed.
+
+real	0m0.872s
+user	0m0.007s
+sys	0m0.012s
+8 minutes and 47 seconds elapsed.
+
+real	0m0.872s
+user	0m0.009s
+sys	0m0.009s
+8 minutes and 52 seconds elapsed.
+
+real	0m0.873s
+user	0m0.005s
+sys	0m0.014s
+8 minutes and 57 seconds elapsed.
+
+real	0m0.872s
+user	0m0.004s
+sys	0m0.013s
+9 minutes and 2 seconds elapsed.
+
+real	0m0.870s
+user	0m0.015s
+sys	0m0.002s
+9 minutes and 7 seconds elapsed.
+
+real	0m0.867s
+user	0m0.008s
+sys	0m0.009s
+9 minutes and 12 seconds elapsed.
+
+real	0m0.875s
+user	0m0.004s
+sys	0m0.013s
+9 minutes and 17 seconds elapsed.
+
+real	0m0.868s
+user	0m0.016s
+sys	0m0.000s
+9 minutes and 23 seconds elapsed.
+
+real	0m0.871s
+user	0m0.005s
+sys	0m0.013s
+9 minutes and 28 seconds elapsed.
+
+real	0m0.872s
+user	0m0.005s
+sys	0m0.014s
+9 minutes and 33 seconds elapsed.
+
+real	0m0.867s
+user	0m0.008s
+sys	0m0.009s
+9 minutes and 38 seconds elapsed.
+
+real	0m0.873s
+user	0m0.015s
+sys	0m0.002s
+9 minutes and 43 seconds elapsed.
+
+real	0m0.872s
+user	0m0.004s
+sys	0m0.014s
+9 minutes and 48 seconds elapsed.
+
+real	0m0.869s
+user	0m0.007s
+sys	0m0.010s
+9 minutes and 53 seconds elapsed.
+
+real	0m1.114s
+user	0m0.013s
+sys	0m0.005s
+9 minutes and 58 seconds elapsed.
+
+real	0m1.112s
+user	0m0.004s
+sys	0m0.013s
+10 minutes and 3 seconds elapsed.
+
+real	0m1.116s
+user	0m0.013s
+sys	0m0.005s
+10 minutes and 8 seconds elapsed.
+
+real	0m1.110s
+user	0m0.018s
+sys	0m0.000s
+slurmstepd: error: *** JOB 6475 ON catch-m6a4xl-demand-dy-m6a4xlarge-1 CANCELLED AT 2024-03-05T16:08:29 ***
